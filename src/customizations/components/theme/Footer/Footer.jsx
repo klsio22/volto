@@ -9,54 +9,31 @@ const Footer = () => {
             <h3>Acesso Rápido</h3>
             <ul>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/pesquisa-e-pos-graduacao/pesquisador"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/pesquisa-e-pos-graduacao/pesquisador">
                   Apoio ao Pesquisador
                 </a>
               </li>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/comissoes"
-                  class="external-link"
-                >
-                  Comissões
-                </a>
+                <a href="https://portal.utfpr.edu.br/comissoes">Comissões</a>
               </li>
               <li>
-                <a
-                  href="http://portal.utfpr.edu.br/login"
-                  class="external-link"
-                >
-                  Login no portal
-                </a>
+                <a href="http://portal.utfpr.edu.br/login">Login no portal</a>
               </li>
               <li>
-                <a href="https://nuvem.utfpr.edu.br/" class="external-link">
-                  Nuvem
-                </a>
+                <a href="https://nuvem.utfpr.edu.br/">Nuvem</a>
               </li>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/servidores/site"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/servidores/site">
                   Portal do Servidor
                 </a>
               </li>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/servicos-internos/utfpr-digital"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/servicos-internos/utfpr-digital">
                   UTFPR Digital
                 </a>
               </li>
               <li>
-                <a href="http://mail.utfpr.edu.br/" class="external-link">
-                  Webmail
-                </a>
+                <a href="http://mail.utfpr.edu.br/">Webmail</a>
               </li>
             </ul>
           </div>
@@ -64,33 +41,22 @@ const Footer = () => {
             <h3>Serviços</h3>
             <ul>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/comunicacao"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/comunicacao">
                   Área de imprensa
                 </a>
               </li>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/contato/ouvidoria"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/contato/ouvidoria">
                   Ouvidoria
                 </a>
               </li>
               <li>
-                <a
-                  href="https://portal.utfpr.edu.br/transparencia/"
-                  class="external-link"
-                >
+                <a href="https://portal.utfpr.edu.br/transparencia/">
                   Transparência
                 </a>
               </li>
               <li>
-                <a href="http://www.funtefpr.org.br" class="external-link">
-                  Fundação de apoio
-                </a>
+                <a href="http://www.funtefpr.org.br">Fundação de apoio</a>
               </li>
             </ul>
           </div>
@@ -98,53 +64,32 @@ const Footer = () => {
             <h3>Redes sociais</h3>
             <ul>
               <li>
-                <a href="http://facebook.com/utfpr" class="external-link">
-                  Facebook
-                </a>
+                <a href="http://facebook.com/utfpr">Facebook</a>
               </li>
               <li>
-                <a
-                  href="https://www.flickr.com/photos/168609044@N04/"
-                  class="external-link"
-                >
+                <a href="https://www.flickr.com/photos/168609044@N04/">
                   Flickr
                 </a>
               </li>
               <li>
-                <a
-                  href="https://www.instagram.com/utfpr_"
-                  class="external-link"
-                >
-                  Instagram
-                </a>
+                <a href="https://www.instagram.com/utfpr_">Instagram</a>
               </li>
               <li>
-                <a
-                  href="http://www.linkedin.com/school/universidade-tecnol%C3%B3gica-federal-do-paran%C3%A1/"
-                  class="external-link"
-                >
+                <a href="http://www.linkedin.com/school/universidade-tecnol%C3%B3gica-federal-do-paran%C3%A1/">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="https://bit.ly/utfpr_tk" class="external-link">
-                  Tik Tok
-                </a>
+                <a href="https://bit.ly/utfpr_tk">Tik Tok</a>
               </li>
               <li>
-                <a href="https://bit.ly/utfpr_tk" class="external-link">
-                  Tik Tok
-                </a>
+                <a href="https://bit.ly/utfpr_tk">Tik Tok</a>
               </li>
               <li>
-                <a href="https://twitter.com/utfpr_" class="external-link">
-                  Twitter
-                </a>
+                <a href="https://twitter.com/utfpr_">Twitter</a>
               </li>
               <li>
-                <a href="http://youtube.com/canaldaUTFPR" class="external-link">
-                  YouTube
-                </a>
+                <a href="http://youtube.com/canaldaUTFPR">YouTube</a>
               </li>
             </ul>
           </div>
@@ -153,10 +98,7 @@ const Footer = () => {
               <h3>RSS</h3>
               <ul>
                 <li>
-                  <a
-                    href="https://portal.utfpr.edu.br/english"
-                    class="external-link"
-                  >
+                  <a href="https://portal.utfpr.edu.br/english">
                     English Version
                   </a>
                 </li>
@@ -166,26 +108,17 @@ const Footer = () => {
               <h3>Navegação</h3>
               <ul>
                 <li>
-                  <a
-                    href="https://portal.utfpr.edu.br/acessibilidade"
-                    class="external-link"
-                  >
+                  <a href="https://portal.utfpr.edu.br/acessibilidade">
                     Acessibilidade
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://portal.utfpr.edu.br/mapadosite"
-                    class="external-link"
-                  >
+                  <a href="https://portal.utfpr.edu.br/mapadosite">
                     Mapa do site
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://portal.utfpr.edu.br/english"
-                    class="external-link"
-                  >
+                  <a href="https://portal.utfpr.edu.br/english">
                     English Version
                   </a>
                 </li>
@@ -212,7 +145,7 @@ const Footer = () => {
       </div>
       <div className="p-8">
         <span>
-          Desenvolvido com o CMS de código aberto{' '}
+          Desenvolvido com o CMS de código aberto
           <a href="https://plone.org/" alt="Link plone">
             Plone
           </a>
